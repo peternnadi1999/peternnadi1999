@@ -59,11 +59,13 @@ I’m a software developer with 3+ years of coding experience, focused on buildi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peternnadi1999&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
-## 🔥 Contribution Streak
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=peternnadi1999&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peternnadi1999&theme=react-dark&hide_border=true"/>
 </p>
+
 
 
 ## 🧩 Projects
