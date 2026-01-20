@@ -2,7 +2,7 @@
 
 Frontend Blockchain Developer | Web3 Builder | React & Next.js Specialist
 
-I’m a software developer with 4+ years of coding experience, focused on building real-world products using modern frontend technologies and blockchain. I enjoy turning complex ideas into clean, usable interfaces and decentralized systems that actually solve problems.
+I’m a software developer with 3+ years of coding experience, focused on building real-world products using modern frontend technologies and blockchain. I enjoy turning complex ideas into clean, usable interfaces and decentralized systems that actually solve problems.
 
 ---
 
@@ -19,33 +19,36 @@ I’m a software developer with 4+ years of coding experience, focused on buildi
 ## 🛠 Tech Stack & Skills
 
 ### Frontend
-- React.js
-- Next.js (App Router)
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5 & CSS3
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+</p>
 
 ### State & Data
-- React Query (TanStack Query)
-- Axios
-- REST APIs
-- Form handling (React Hook Form)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Query"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40" alt="Axios"/>
+</p>
 
 ### Blockchain & Web3
-- Solidity
-- Ethereum & EVM
-- Smart Contract Development
-- Wagmi & RainbowKit
-- Account Abstraction (EIP-4337 – learning & implementing)
-- Hardhat (testing & deployment)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" width="40" height="40" alt="Ethereum"/>
+</p>
 
 ### Tools & Workflow
-- Git & GitHub
-- Linux (Mint)
-- VS Code
-- Figma (UI collaboration)
-- Postman
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</p>
 
 ---
 
@@ -82,8 +85,8 @@ A decentralized music streaming platform that allows artists to upload music and
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/peternnadi1999
-- Portfolio: (add when ready)
-- Twitter/X: (optional)
+- Portfolio: 
+- Twitter/X: https://x.com/PeterNnadi7
 
 ---
 
